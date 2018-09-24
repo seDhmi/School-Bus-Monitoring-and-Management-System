@@ -18,9 +18,3 @@ Many city bus systems have discovered that GPS tracking system which allows to m
 # 1.4 References
 -	SCHOOL BUS ROUTING MANAGEMENT SYSTEM, May 22, 2016. University of DELHI.
 -	Bus Tracking Application Project Report, June 27, 2016.  
-
-
-
-
-
-
